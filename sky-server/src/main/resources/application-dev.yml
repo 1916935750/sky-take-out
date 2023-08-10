@@ -9,7 +9,7 @@ sky:
 
 
   alioss:
-    access-key-secret: f1SGBSksCcO7liFz6F4ctCZICw12Eq
-    access-key-id: LTAI5t7U2pYEdatFbDSnuuPz
-    bucket-name: caster2
-    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-secret: 
+    access-key-id: 
+    bucket-name: 
+    endpoint: 
